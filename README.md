@@ -46,10 +46,14 @@ Active l’environnement virtuel et exécute le script :
 ```bash
 source venv/bin/activate
 python main.py
+```
 ![image](https://github.com/user-attachments/assets/67e437b6-4b70-48ab-9f75-9bb842e0620d)
+
+---
 ![image](https://github.com/user-attachments/assets/09d7ef51-3130-4197-ab73-d6652b9b7aba)
 
-```
+---
+
 L’outil te demandera d’entrer une plage IP à scanner (ex. : 192.168.1.0/24).
 Il effectuera ensuite les étapes suivantes :
 

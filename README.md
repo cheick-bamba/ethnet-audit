@@ -14,6 +14,15 @@
 
 ---
 
+## 🙋 Auteur
+Cheick Ousmane BAMBA
+
+Étudiant en Master Cybersécurité – Université Centrale de Tunis
+
+LinkedIn : https://www.linkedin.com/in/cheick-ousmane-bamba-258529323
+
+---
+
 ## 🧰 Technologies utilisées
 
 - Python 3.x
@@ -26,7 +35,8 @@
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/votre-utilisateur/ethnet-audit.git
+git clone https://github.com/cheick-bamba/ethnet-audit.git
 cd ethnet-audit
 chmod +x setup.sh
 ./setup.sh
+

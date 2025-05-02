@@ -63,3 +63,7 @@ Il effectuera ensuite les étapes suivantes :
 python main.py --export json
 python main.py --export csv
 ```
+
+### 🛡️ Licence
+
+Ce projet est distribué sous licence MIT. Vous êtes libre de l’utiliser, le modifier et le distribuer.
